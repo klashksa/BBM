@@ -1,4 +1,3 @@
-#import "writeData.h"
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <substrate.h>
@@ -54,7 +53,7 @@ return %orig(fp8);
 %end
 
 
-//❤️❤️❤️❤️❤️❤️❤️
+
 
 //Unlimited Time for Temporary messages
 %hook BBMEphemeralMetaData
