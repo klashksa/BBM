@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+<dict>
+		<key>cell</key>
+		<string>PSStaticTextCell</string>
+		<key>cellClass</key>
+		<string>PFHeaderCell</string>
+		<key>background</key>
+		<string>#EFEFF4</string>
+		<key>image</key>
+		<string>/Library/PreferenceBundles/BBM++byKlash.bundle/header.png</string>
+		<key>height</key>
+		<integer>100</integer>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>تعطيل جاري الكتابه.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key1</string>
+			<key>label</key>
+			<string>Disable is typing</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>المستخدم لا يعلم بأنك قرأت الرسالة الا في حال قمت بإرسال رساله له(لاتشمل الرسائل المؤقتة).</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key2</string>
+			<key>label</key>
+			<string>Disable read message</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>يظهر لديك بان جميع الرسائل تمت قرائتها.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key3</string>
+			<key>label</key>
+			<string>Disable new message mark</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>تصوير الشاشه بدون علم الآخرين خاص بالرسائل المؤقتة(سيظهر عند الاخر بأنك قرأت الرساله المؤقته فقط ).</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key4</string>
+			<key>label</key>
+			<string>Screenshot without knowing people</string>
+		</dict>
+		<dict>
+					<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>مشاهدة الرسائل المؤقته بدون حد معين.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key5</string>
+			<key>label</key>
+			<string>Disable ephemeral message time</string>
+		</dict>
+		<dict>
+							<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>بنق لا محدود.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.klashksa.BBM++byKlash</string>
+			<key>key</key>
+			<string>key6</string>
+			<key>label</key>
+			<string>Unlimited Ping</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTextCell</string>
+			<key>label</key>
+			<string>👇🏿👇🏿👇🏿👇🏿👇🏿</string>
+				</dict>
+				<dict>
+						 <key>cell</key>
+						 <string>PSButtonCell</string>
+						 <key>action</key>
+						 <string>credits</string>
+						<key>label</key>
+						<string>【қłΔѕн۩қѕΔ】</string>						
+				</dict>
+				<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>BBM++byKlash.png</string>
+			<key>label</key>
+			<string>Visit Me For More</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>⚫️ BBM++ ⚫️</string>
+</dict>
+</plist>
