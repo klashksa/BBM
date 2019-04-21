@@ -1,4 +1,3 @@
-//8
 #include "BBM++byKlashListController.h"
 #include "objc/runtime.h"
 #import <Preferences/PSListController.h>
